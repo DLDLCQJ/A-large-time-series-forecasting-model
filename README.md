@@ -1,1 +1,1 @@
-# EEGPT-A-large-time-series-forecasting-model
+# EEGPT: A-large-time-series-forecasting-model (In preparation)
